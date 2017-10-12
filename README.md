@@ -34,7 +34,9 @@ Repository should includes：
 Chrome
 
 ## How to begin：
+```
 git clone https://github.com/tws-online-quiz/html-make-online-exam-page
+```
 Stack Initial and build:
 Open the index.html with browser direatly, you will see the result of any change.
 
