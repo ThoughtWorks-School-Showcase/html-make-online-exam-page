@@ -40,4 +40,3 @@ Open the index.html with browser, you will see the result of any change.
 
 ## Learning Resourse(Chinese Version):
 [W3School](http://www.w3school.com.cn/)
-
