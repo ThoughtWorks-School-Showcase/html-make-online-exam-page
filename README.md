@@ -2,7 +2,7 @@
 
 ## Business Requirement:
 According to below prototype，please write HTML code in `index.html` to implement the an online exam page. 
-
+![](./mockup-en.png)
 
 ## Practice Challenges:
 
