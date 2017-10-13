@@ -1,4 +1,3 @@
-https://github.com/ThoughtWorks-School-Showcase/html-make-online-exam-page
 # Implement an Online Exam Page with HTML
 
 ## Business Requirement:
